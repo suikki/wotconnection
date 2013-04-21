@@ -1,0 +1,4 @@
+wotconnection
+=============
+
+Simple api for querying clan battle schedules for World of Tanks.
